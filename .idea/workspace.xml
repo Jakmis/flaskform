@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79c0b1a2-2ded-431c-aed8-d3d9ff8eae70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yo7wgRSaqQfISeMbgUNqMOZEqb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Docker">
+    <configuration name="flaskapp" type="PythonConfigurationType" factoryName="Python">
+      <module name="flaskapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/okurka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="flaskapp" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="5000" />
+                <option name="hostPort" value="80" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Docker" />
+      <item itemvalue="Python.flaskapp" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79c0b1a2-2ded-431c-aed8-d3d9ff8eae70" name="Default Changelist" comment="" />
+      <created>1632906326436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632906326436</updated>
+      <workItem from="1632906328955" duration="2077000" />
+      <workItem from="1632912131960" duration="3373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="202" width="802" height="675" key="#Docker" timestamp="1632913354492">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="555" y="202" width="802" height="675" key="#Docker/0.28.1920.1024@0.28.1920.1024" timestamp="1632913354492" />
+    <state x="555" y="202" width="802" height="675" key="#Push_Image" timestamp="1632913280517">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="555" y="202" width="802" height="675" key="#Push_Image/0.28.1920.1024@0.28.1920.1024" timestamp="1632913280517" />
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632913692462">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1632913692462" />
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom" timestamp="1632913798972">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.bottom/0.28.1920.1024@0.28.1920.1024" timestamp="1632913798972" />
+    <state width="1874" height="269" key="GridCell.Tab.0.center" timestamp="1632913798971">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.center/0.28.1920.1024@0.28.1920.1024" timestamp="1632913798971" />
+    <state width="1874" height="269" key="GridCell.Tab.0.left" timestamp="1632913798970">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.left/0.28.1920.1024@0.28.1920.1024" timestamp="1632913798970" />
+    <state width="1874" height="269" key="GridCell.Tab.0.right" timestamp="1632913798971">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1874" height="269" key="GridCell.Tab.0.right/0.28.1920.1024@0.28.1920.1024" timestamp="1632913798971" />
+    <state x="449" y="175" key="SettingsEditor" timestamp="1632912955612">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="449" y="175" key="SettingsEditor/0.28.1920.1024@0.28.1920.1024" timestamp="1632912955612" />
+    <state x="700" y="284" width="503" height="509" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1632913490591">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="700" y="284" width="503" height="509" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.28.1920.1024@0.28.1920.1024" timestamp="1632913490591" />
+    <state x="616" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1632912155034">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="616" y="368" key="com.intellij.ide.util.TipDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1632912155034" />
+    <state x="739" y="203" width="434" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1632915131518">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="739" y="203" width="434" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1024@0.28.1920.1024" timestamp="1632915131518" />
+    <state x="704" y="272" width="503" height="533" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1632912917779">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="704" y="272" width="503" height="533" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.28.1920.1024@0.28.1920.1024" timestamp="1632912917779" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskapp$flaskapp.coverage" NAME="flaskapp Coverage Results" MODIFIED="1632913697314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
